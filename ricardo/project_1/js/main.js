@@ -49,5 +49,5 @@ cliente = {
 //}//For in
 
 document.getElementById("calcular").onclick = function(){
-	alert("hola");
+	alert("Sigo sin hacer nada");
 };
