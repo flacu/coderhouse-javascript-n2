@@ -32,21 +32,7 @@ cliente = {
 	{elemento: "historia", cantidad: 2}
 ]*/
 
-//for(i in nuevocliente){
 
-	function sumarProductos(producto,cantidad){
-
-		if(nuevocliente[i].elemento === "fotocopias"){
-			console.log("Soy fotocopia");
-		}
-		else{
-			console.log("Soy otra cosa")
-		}
-	}//Sumar productos
-
-	//var unproducto = sumarProductos(nuevocliente[i].elemento), nuevocliente[i].cantidad);
-
-//}//For in
 
 document.getElementById("calcular").onclick = function(){
 	alert("Sigo sin hacer nada");
